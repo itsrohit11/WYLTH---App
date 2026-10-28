@@ -3,13 +3,14 @@
 # WYLTH
 
 **Grow quietly.**
+### [⬇ Download the latest installer](../../releases/latest)
 
 A personal finance app for Windows that tracks your whole financial life and keeps every byte on your own PC.
 No account. No internet. No cloud.
 
 ![Dashboard](docs/screenshots/dashboard.png)
 
-### [⬇ Download the latest installer](../../releases/latest)
+
 
 </div>
 
